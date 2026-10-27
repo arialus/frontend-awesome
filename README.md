@@ -1,13 +1,29 @@
-<p align="center"><img src="https://cloud.githubusercontent.com/assets/3603793/23492511/84625a9e-fee3-11e6-99e0-326160af5f3c.png" width="200"></p>
+<p align="center">
+  <a href="https://github.com/felipefialho/frontend-awesome">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./.github/assets/banner-dark.png">
+      <img src="./.github/assets/banner-light.png" alt="frontend-awesome" width="560">
+    </picture>
+  </a>
+</p>
 
-# Frontender Tools
+<p align="center"><strong>The front-end developer's toolbox.</strong><br>A curated, community-maintained list of tools and resources for building for the web.</p>
 
-[![license](https://img.shields.io/github/license/felipefialho/frontend-tools.svg)](./license.md)
-[![GitHub contributors](https://img.shields.io/github/contributors/felipefialho/frontend-tools.svg)](https://github.com/felipefialho/frontend-tools/graphs/contributors)
+<p align="center">
+  <a href="./license.md"><img src="https://img.shields.io/github/license/felipefialho/frontend-awesome.svg?color=6E56FF" alt="license"></a>
+  <a href="https://github.com/felipefialho/frontend-awesome/graphs/contributors"><img src="https://img.shields.io/github/contributors/felipefialho/frontend-awesome.svg?color=FF4F8B" alt="GitHub contributors"></a>
+</p>
 
-Follows a list with links of online useful tools to Front-End Developers.
+## About
 
-__Help the community doing your contribution. It's easy and simple. Just keep sections in alphabetic order__.
+**frontend-awesome** is a hand-picked collection of tools, services and references that make front-end work faster and better, from accessibility checks and performance audits to SVG, fonts and images. Every entry is reviewed by the community, and links that die or projects that get abandoned are removed, so the list stays useful.
+
+> [!NOTE]
+> Started in 2017 as **frontend-tools**, the project got a new name and identity in 2026. Old links to `felipefialho/frontend-tools` keep working and redirect here.
+
+Found something awesome? Read the [contribution guidelines](./contributing.md) and open a pull request.
+
+## Contents
 
 - [Acessibility Validators](#acessibility-validators)
 - [API](#api)
@@ -341,6 +357,10 @@ __Help the community doing your contribution. It's easy and simple. Just keep se
 - [Custom Elements](http://customelements.io/)
 - [Polymer](https://www.polymer-project.org/1.0/)
 
+## Contributing
+
+Contributions are always welcome! Please read the [contribution guidelines](./contributing.md) first. Thanks to everyone who [has contributed](https://github.com/felipefialho/frontend-awesome/graphs/contributors) to this list over the years.
+
 ## License
 
-[MIT License](http://felipefialho.mit-license.org/) © Felipe Fialho
+[MIT](./license.md) © Felipe Fialho and contributors
