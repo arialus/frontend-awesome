@@ -223,6 +223,7 @@ Found something awesome? Read the [contribution guidelines](./contributing.md) a
 
 ## Icons
 
+- [Aria Icons](https://icons.leularia.com) - Search 1.4M open-source SVG icons and copy them as SVG or React/Vue components.
 - [Character Entities](https://brajeshwar.github.io/entities/) :octocat:
 - [Font Awesome](https://fontawesome.com/) :octocat:
 - [Fontello](https://fontello.com/)
